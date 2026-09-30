@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "minOneCommeVersion": "9.0.0",
-  "zipUrl": "https://github.com/Bansho0000/KyoMoji_Release/releases/download/v1.0.0/KyoMoji-1.0.0.zip",
-  "sha256": "c1bb3673de3bf26e40c9a9dc176b6d81aca008c23c7ba690d5cebd5c06955aa2",
+  "zipUrl": "https://github.com/Bansho0000/KyoMoji_Release/releases/download/v1.0.1/KyoMoji-1.0.1.zip",
+  "sha256": "a409a79ba59a6fb6801a91e245d20b2c6edc805eba715dc602733cfc7b761789",
   "publishedAt": "2026-09-30",
   "notes": {
-    "ja": "v1.0.0 リリース",
-    "en": "Release v1.0.0"
+    "ja": "v1.0.1 リリース",
+    "en": "Release v1.0.1"
   }
 }
